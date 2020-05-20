@@ -1,0 +1,2 @@
+# desafio_pratico_jogo_cobrinha_javascript
+Jogo da cobrinha
